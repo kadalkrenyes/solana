@@ -6,7 +6,7 @@ const Close: NextPage = (props) => {
   return (
     <div>
       <Head>
-        <title>$TBITS</title>
+        <title>Close Token - $TBITS</title>
         <meta
           name="description"
           content="Close your empty token account and earn SOL"
