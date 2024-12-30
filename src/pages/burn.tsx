@@ -6,7 +6,7 @@ const Burn: NextPage = (props) => {
   return (
     <div>
       <Head>
-        <title>$TBITS</title>
+        <title>Burn Token - $TBITS</title>
         <meta
           name="description"
           content="Burn your asset and earn SOL"
