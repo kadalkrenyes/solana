@@ -6,10 +6,10 @@ const Home: NextPage = (props) => {
   return (
     <div>
       <Head>
-        <title>Solana-Tools</title>
+        <title>Launch Tbits</title>
         <meta
           name="description"
-          content="Bunch of free and open source tools to help you on Solana."
+          content="Launch your tokens on pump.fun with style & predetermined custom CAs."
         />
       </Head>
       <HomeView />
