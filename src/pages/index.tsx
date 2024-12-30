@@ -6,7 +6,7 @@ const Home: NextPage = (props) => {
   return (
     <div>
       <Head>
-        <title>Launch Tbits</title>
+        <title>$TBITS</title>
         <meta
           name="description"
           content="Launch your tokens on pump.fun with style & predetermined custom CAs."
