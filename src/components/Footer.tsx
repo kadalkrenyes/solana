@@ -4,7 +4,7 @@ import { SyringeIcon, TwitterIcon } from 'lucide-react';
 export const Footer: FC = () => {
     return (
         <div className="flex">
-            <footer className="border-t-2 border-[#141414] bg-[#D98F72] w-screen" >
+            <footer className="border-t-2 border-[#ffffff] bg-[#D98F72] w-screen" >
                 <div className="py-4 flex justify-center">
                     <div className="grid grid-cols-2">
                         <Link href={"https://pump.fun/coin/"} target='_blank' className='flex mx-4'>
