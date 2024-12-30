@@ -6,7 +6,7 @@ const Upload: NextPage = (props) => {
   return (
     <div>
       <Head>
-        <title>Solana-Tools</title>
+        <title>$TBITS</title>
         <meta
           name="description"
           content="Upload file to arweave"
