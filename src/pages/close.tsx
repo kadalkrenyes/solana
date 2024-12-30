@@ -6,7 +6,7 @@ const Close: NextPage = (props) => {
   return (
     <div>
       <Head>
-        <title>Solana-Tools</title>
+        <title>$TBITS</title>
         <meta
           name="description"
           content="Close your empty token account and earn SOL"
