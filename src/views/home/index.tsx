@@ -122,15 +122,15 @@ export const HomeView: FC = ({ }) => {
             <Link key={key} href={item.href} className="group">
               <Card className="border-secondary group-hover:border-white">
                 <CardHeader>
-                  <CardTitle className="space-y-3">
+                  <CardTitle className="text-black space-y-3">
                     {item.icon}
-                    <span className="block font-bold group-hover:text-pretty">
+                    <span className="text-black block font-bold group-hover:text-pretty">
                       {item.title}
                     </span>
                   </CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-2">
-                  <p className="text-muted-foreground">{item.description}</p>
+                  <p className="text-black text-muted-foreground">{item.description}</p>
                 </CardContent>
               </Card>
             </Link>
