@@ -9,7 +9,7 @@ const Home: NextPage = (props) => {
         <title>$TBITS</title>
         <meta
           name="description"
-          content="Launch your tokens on pump.fun with style & predetermined custom CAs."
+          content="Tools to help people in the Solana ecosystem."
         />
       </Head>
       <HomeView />
