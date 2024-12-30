@@ -6,7 +6,7 @@ const Create: NextPage = (props) => {
   return (
     <div>
       <Head>
-        <title>$TBITS</title>
+        <title>Create Token - $TBITS</title>
         <meta
           name="description"
           content="Create your own token on solana"
