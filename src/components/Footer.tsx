@@ -9,7 +9,7 @@ export const Footer: FC = () => {
                     <div className="grid grid-cols-2">
                         <Link href={"https://pump.fun/coin/"} target='_blank' className='flex mx-4'>
                             <SyringeIcon />
-                            <div className='ml-2'>ToolsSolana</div>
+                            <div className='ml-2'>PUMP.FUN</div>
                         </Link>
                         <Link href={"https://x.com/tbits_io"} target='_blank' className='flex mx-4'>
                             <TwitterIcon />
