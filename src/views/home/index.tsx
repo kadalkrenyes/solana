@@ -38,7 +38,7 @@ const actionCards: Array<{
       title: "Claim transfer fees",
       href: "/claim-fees",
       description:
-        "Claim the transfer fees of your token2022",
+        "Claim the transfer fees of your token",
       icon: <HandCoinsIcon size={50} />,
     },
     {
