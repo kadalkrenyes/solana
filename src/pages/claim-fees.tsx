@@ -6,7 +6,7 @@ const ClaimFees: NextPage = (props) => {
   return (
     <div>
       <Head>
-        <title>$TBITS</title>
+        <title>Claim Fee - $TBITS</title>
         <meta
           name="description"
           content="Upload file to arweave"
